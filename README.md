@@ -1,2 +1,2 @@
 # USTMA
-An university maintenances Application! 
+An university maintenances Application!
